@@ -1,3 +1,6 @@
+![IndiaML](https://user-images.githubusercontent.com/25604111/68612427-87760480-04e2-11ea-8965-1d62cc684703.png)
+
+
 ## India Hiring ML Hackathon
 
 #### Problem Statement
